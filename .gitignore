@@ -1,0 +1,13 @@
+node_modules
+public
+.tmp
+.idea
+client/bower_components
+dist
+/server/config/local.env.js
+client/**/*.js
+client/**/*.js.map
+client-reference.js
+client-reference.js.map
+.tscache/
+*.tmp.txt
